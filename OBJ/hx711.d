@@ -1,0 +1,14 @@
+..\OBJ\hx711.o: ..\MyCode\HX711\HX711.c
+..\OBJ\hx711.o: ..\MyCode\HX711\HX711.h
+..\OBJ\hx711.o: ..\SYSTEM\sys\sys.h
+..\OBJ\hx711.o: ..\USER\stm32f10x.h
+..\OBJ\hx711.o: ..\CORE\core_cm3.h
+..\OBJ\hx711.o: C:\Keil\ARM\RV31\INC\stdint.h
+..\OBJ\hx711.o: ..\USER\system_stm32f10x.h
+..\OBJ\hx711.o: ..\USER\stm32f10x_conf.h
+..\OBJ\hx711.o: ..\STM32_FWLIB\inc\stm32f10x_gpio.h
+..\OBJ\hx711.o: ..\USER\stm32f10x.h
+..\OBJ\hx711.o: ..\STM32_FWLIB\inc\stm32f10x_rcc.h
+..\OBJ\hx711.o: ..\STM32_FWLIB\inc\stm32f10x_usart.h
+..\OBJ\hx711.o: ..\STM32_FWLIB\inc\misc.h
+..\OBJ\hx711.o: ..\SYSTEM\delay\delay.h
